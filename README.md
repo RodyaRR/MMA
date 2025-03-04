@@ -1,7 +1,7 @@
 # MMA
 The repository of MMA.
 
-Organize them in `your dataset root dir` folder as follows:
+Organize datasets in `your dataset root dir` folder as follows:
 ```
 |-- your dataset root dir/
 |   |-- <CUHK-PEDES>/

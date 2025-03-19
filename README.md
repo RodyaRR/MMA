@@ -31,5 +31,5 @@ Organize datasets in `your dataset root dir` folder as follows:
 
 ## Training
 ```python
-python train.py \
+python train.py
 ```
